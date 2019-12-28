@@ -12,7 +12,7 @@ import java.util.Stack;
  * popMax() -- Retrieve the maximum element in the stack, and remove it. If you find more than one maximum elements, only remove the top-most one.
  * Example 1:
  * MaxStack stack = new MaxStack();
- * stack.push(5); 
+ * stack.push(5);
  * stack.push(1);
  * stack.push(5);
  * stack.top(); -> 5
