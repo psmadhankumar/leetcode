@@ -22,7 +22,7 @@ package io.lc.prep.array.twodimension;
  *
  * Approach: This is straight forward solution, such that, traverse each cell and
  * for each cell "1" then move four directions and keep adding "1" either cell falls outside of grid or if cell is zero.
- * 
+ *
  */
 public class LC463IslandPerimeter {
 

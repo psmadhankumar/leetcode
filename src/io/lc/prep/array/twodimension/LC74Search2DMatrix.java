@@ -28,7 +28,7 @@ package io.lc.prep.array.twodimension;
  *
  * Approach: Since each array is sorted, check the first cell and last cell for each row and if the target
  * falls within the range, then, do the binary search on it.
- * 
+ *
  */
 public class LC74Search2DMatrix {
 
