@@ -33,7 +33,7 @@ import java.util.Stack;
  */
 public class LC173BinarySearchTreeIterator {
     Stack<TreeNode> stack = null;
-    
+
     public LC173BinarySearchTreeIterator(TreeNode root) {
         stack = new Stack<>();
 
