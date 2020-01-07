@@ -49,5 +49,5 @@ public class LC1150CheckIfNumberIsMajorityElementInSortedArray {
 
         return false;
     }
-    
+
 }
